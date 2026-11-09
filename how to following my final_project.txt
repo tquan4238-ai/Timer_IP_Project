@@ -1,0 +1,1 @@
+If you would like full access to the RTL code, sim and testbench directories, as well as the testcases, please go to the following path: /ictc/student_data/minhquan_1010/final_project
