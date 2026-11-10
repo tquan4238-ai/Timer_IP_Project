@@ -56,5 +56,5 @@ Functional verification covers:
 ## 7. Author
 Trinh Minh Quan  
 Computer Engineering Student
-Ho Chi Minh City University of Technology and Education (HCMUTE)  
+Ho Chi Minh City University of Technology and Engineering (HCMUTE)  
 IC41 – IC Training Center Vietnam
