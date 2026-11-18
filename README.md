@@ -45,7 +45,6 @@ Functional verification covers:
 - Debug halt and resume.
 - Interrupt generation and clearance.
 - Code coverage analysis.
-- 
 ## 6. Tools
 - Verilog HDL 
 - ModelSim
